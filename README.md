@@ -41,7 +41,7 @@ The contact form allows users to reach out to the law firm. It includes fields f
 - **design.css:** External CSS file for custom styling.
 
 ---
-Demo Video: https://youtu.be/cirE-8R4dOE
+Link to Website: https://remiyyah.github.io/Justice-Law-Website/
 
 Demo Pics:
 <img width="1439" alt="Screenshot 2024-05-01 at 7 39 52 PM" src="https://github.com/Remiyyah/Justice-Law-Website/assets/116331106/b3f2dd0f-f06a-436d-a92f-04b6de9b8762">
